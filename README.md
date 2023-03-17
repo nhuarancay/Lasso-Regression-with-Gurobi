@@ -2,7 +2,7 @@
 
 This work is focused on how to **set coefficients for linear regression**.
 
-The **Step-by-Step Guide to Formulate Lasso Linear Regression with Gurobi and Setting Coefficients**, can be better explain in this article: https://medium.com/@nicolay.huarancay/179be20eea14
+The **Step-by-Step Guide to Formulate Lasso Linear Regression with Gurobi and Setting Coefficients**, can be better explain in this article: https://medium.com/@nicolay.huarancay/lasso-regression-with-gurobi-and-setting-coefficients-approach-179be20eea14
 
 Linear regression is a popular technique with many real-world applications. However, the question of whether it is appropriate to set coefficients in multiple regression is controversial, as it can lead to biases and suboptimal solutions. Various techniques such as lasso and robustness can still produce effective outcomes. The decision to set coefficients depends on factors such as prior knowledge, improving interpretability, and additional techniques like feature selection and regularization. 
 
